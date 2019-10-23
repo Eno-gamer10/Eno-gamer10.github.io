@@ -1,0 +1,77 @@
+body{ background-image: url(fond.png);
+	background-size:100%;
+	font-family: 'Source code pro',Calibri, serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+nav{
+	width: 99,9%;
+	background-color: #EA5200;
+	border: 5px solid #800;
+    border-radius: 15px;
+}
+
+nav ul{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	overflow: hidden;
+}
+
+nav li{
+	list-style-type: none;
+	float: left;
+}
+
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px 30px;
+	color: #FFF;
+}
+
+img{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+}
+
+.menu-ACCUEIL:hover{
+	background-color: RGBa(100, 15, 38, 0.20);
+	border-radius: 8px;
+}
+.menu-CONTACT:hover{
+	background-color: RGBa(100, 15, 38, 0.20);
+	border-radius: 8px;
+}
+.menu-LAUNCHER:hover{
+	background-color: RGBa(100, 15, 38, 0.20);
+	border-radius: 8px;
+}
+.menu-BOUTIQUE:hover{
+	background-color: RGBa(100, 15, 38, 0.20);
+	border-radius: 8px;
+}
+
+nav li:hover a{
+	padding: 20px 30px 20px 30px;
+}
+
+.table{
+	display: table;
+	margin: 0 auto;
+}
+
+.table2{
+	display: table;
+	margin-left: 275px;
+	max-width: 725px;
+}
+
+p{
+	background-color: RGBa(100, 15, 0, 0.30);
+	border: 5px solid #800;
+    border-radius: 15px;
+}
+© 2019 GitHub, Inc.
