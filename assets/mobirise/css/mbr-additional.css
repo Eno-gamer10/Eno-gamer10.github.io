@@ -1671,6 +1671,33 @@ section.lazy-placeholder:after {
 .cid-s3YidA9Oqa .card-title {
   color: #fc0f06;
 }
+.cid-s48cjVmJtn {
+  background: #ffffff;
+}
+.cid-s48cjVmJtn .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-s48cjVmJtn .mbr-figure {
+  margin: 0 auto;
+}
+.cid-s48cjVmJtn figcaption {
+  position: relative;
+}
+.cid-s48cjVmJtn figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s48cjVmJtn .image-block {
+    width: 100% !important;
+  }
+}
+.cid-s48cjVmJtn .mbr-figure-caption div {
+  color: #f9f295;
+  text-align: center;
+}
 .cid-s3YgtczoIG {
   padding-top: 30px;
   padding-bottom: 30px;
